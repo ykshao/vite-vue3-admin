@@ -1,0 +1,1 @@
+System.register(["./runtime-core.esm-bundler-legacy-8740f6e1.js"],(function(e,t){"use strict";var s,n,r;return{setters:[e=>{s=e.d,n=e.o,r=e.a}],execute:function(){const t=s({name:"demos-nested-routes-one"});e("default",s({...t,setup:e=>(e,t)=>(n(),r("div",null,"路由一"))}))}}}));

@@ -1,0 +1,1 @@
+import{n as o}from"./useI18n-27b32aaa.js";function I(r){return function(n){return n==null?void 0:n[r]}}var i=1/0,e=17976931348623157e292;function f(r){if(!r)return r===0?r:0;if(r=o(r),r===i||r===-i){var n=r<0?-1:1;return n*e}return r===r?r:0}function m(r){var n=f(r),t=n%1;return n===n?t?n-t:n:0}export{I as b,m as t};

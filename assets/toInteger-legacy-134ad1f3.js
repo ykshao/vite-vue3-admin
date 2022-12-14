@@ -1,0 +1,1 @@
+System.register(["./useI18n-legacy-7c9e65b1.js"],(function(n,t){"use strict";var e;return{setters:[n=>{e=n.n}],execute:function(){n({b:function(n){return function(t){return null==t?void 0:t[n]}},t:function(n){var u=function(n){return n?(n=e(n))===t||n===-1/0?(n<0?-1:1)*r:n==n?n:0:0===n?n:0}(n),c=u%1;return u==u?c?u-c:u:0}});var t=1/0,r=17976931348623157e292}}}));

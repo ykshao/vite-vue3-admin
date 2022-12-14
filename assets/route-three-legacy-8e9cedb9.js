@@ -1,0 +1,1 @@
+System.register(["./runtime-core.esm-bundler-legacy-8740f6e1.js"],(function(e,t){"use strict";var s,r,n;return{setters:[e=>{s=e.d,r=e.o,n=e.a}],execute:function(){const t=s({name:"demos-nested-routes-three"});e("default",s({...t,setup:e=>(e,t)=>(r(),n("div",null,"路由三"))}))}}}));

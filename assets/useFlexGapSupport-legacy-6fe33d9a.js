@@ -1,0 +1,1 @@
+System.register(["./styleChecker-legacy-70bc6c23.js","./runtime-core.esm-bundler-legacy-8740f6e1.js"],(function(e,r){"use strict";var t,n,u;return{setters:[e=>{t=e.d},e=>{n=e.h,u=e.i}],execute:function(){e("u",(function(){var e=n(!1);return u((function(){e.value=t()})),e}))}}}));

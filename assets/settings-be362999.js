@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,a as o}from"./runtime-core.esm-bundler-23c0f811.js";const r={};function c(n,s){return t(),o("div",null," 个人中心 ")}const f=e(r,[["render",c]]);export{f as default};

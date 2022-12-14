@@ -1,0 +1,1 @@
+import{d as r}from"./user-0dfa0a0c.js";import{d as e}from"./index-5ae9cf30.js";function a(t){return r({url:e.req,method:"get",params:t},{isMock:!0})}function g(t){return r({url:e.login,method:"get",params:t})}function i(t){return r({url:e.task,method:"get",params:t})}export{g as a,i as b,a as g};

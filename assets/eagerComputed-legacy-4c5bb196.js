@@ -1,0 +1,1 @@
+System.register(["./runtime-core.esm-bundler-legacy-8740f6e1.js"],(function(e,t){"use strict";var n,r;return{setters:[e=>{n=e.ay,r=e.y}],execute:function(){e("e",(function(e){var t=n();return r((function(){t.value=e()}),{flush:"sync"}),t}))}}}));

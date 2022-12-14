@@ -1,0 +1,1 @@
+System.register(["./Col-legacy-0156217b.js","./KeyCode-legacy-c90246ba.js"],(function(e,t){"use strict";var s,r,c;return{setters:[e=>{s=e.R,r=e.C},e=>{c=e.am}],execute:function(){e("a",c(s)),e("_",c(r))}}}));

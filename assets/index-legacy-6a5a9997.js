@@ -1,0 +1,1 @@
+System.register(["./user-legacy-b73c352f.js","./index-legacy-01e91e27.js"],(function(e,t){"use strict";var r,n;return{setters:[e=>{r=e.d},e=>{n=e.d}],execute:function(){e({a:function(e){return r({url:n.login,method:"get",params:e})},b:function(e){return r({url:n.task,method:"get",params:e})},g:function(e){return r({url:n.req,method:"get",params:e},{isMock:!0})}})}}}));

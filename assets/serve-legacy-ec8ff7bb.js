@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){const t=e("s",{stat:"sys/serve/stat"}),s=Object.values(t),r=Object.freeze(Object.defineProperty({__proto__:null,sysServe:t,values:s,default:t},Symbol.toStringTag,{value:"Module"}));e("_",r)}}}));
